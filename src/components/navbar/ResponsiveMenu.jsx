@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import { FaUserCircle } from "react-icons/fa";
 

@@ -17,7 +17,7 @@ const BannerDetails = ({ reverse, img }) => {
               } `}
             >
               <h1 className="text-2xl md:text-4xl ">
-                We Build Apps That Get Trending On Appworld
+                Best and safe Packing services
               </h1>
               <p className="text-sm text-slate-600 dark:text-slate-400">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
